@@ -13,7 +13,7 @@
 # Embarked: Port of embarkation  (C = Cherbourg; Q = Queenstown; S = Southampton)
 
 #First I set my working directory
-setwd("/media/docdoak/Media/Dropbox/Programming/kaggle/titanic/csv/")
+#setwd("~/Media/Dropbox/Programming/kaggle/titanic/csv/")
 
 #Load in my CSVs
 original.train <- read.csv("train.csv")
